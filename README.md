@@ -1,2 +1,2 @@
 # Netflix-Page
-////This is a Netflx homepage designed using HTML, CSS, Bootstrap and Javascript
+////This is a Netflix homepage designed using HTML, CSS, Bootstrap and Javascript
